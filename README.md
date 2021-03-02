@@ -1,3 +1,5 @@
+## --> Binance Smart Chain only <--
+
 # About
 This repo intends to maintain up to date the list of projects with its MasterChef address in a JSON. Additional information can also be provided in the json, to serve any other purpose.
 
